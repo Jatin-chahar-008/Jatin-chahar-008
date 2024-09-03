@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Chahar</h1>
-<h3 align="center">3rd year Computer Science Student</h3>
+<h3 align="center">A passionate Computer Science Student , Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-chahar-008&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-chahar-008" /> </p>
 
