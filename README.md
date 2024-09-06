@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently focusing on **DSA**
 
-- ⚡ Fun fact : My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
+- ⚡ Fun fact : My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT 
 
 ---
 
