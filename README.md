@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Chahar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello!+This+is+Jatin+Chahar%2C+Welcome+to+my+Github." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Hello!+This+is+Jatin+Chahar%2C+Welcome+to+my+Github+page." alt="Typing SVG" /></a>
 <img align = "right" alt="coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 
