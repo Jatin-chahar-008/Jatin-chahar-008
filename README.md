@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Chahar</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello!+This+is+Jatin+Chahar%2C+Welcome+to+my+Github." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=600&lines=Hello!+This+is+Jatin+Chahar%2C+Welcome+to+my+Github." alt="Typing SVG" /></a>
 <img align = "right" alt="coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
 
 
@@ -15,7 +15,7 @@
 <a href="https://www.codechef.com/users/jatinchahar008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jatinchahar008" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jatinchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jatinchahar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jatinchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinchahar" height="30" width="40" /></a>
-</p><br>
+</p><br><br>
 
 ---
   👦 About Me
