@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Chahar</h1>
 <h3 align="center">3rd year Computer Science Student</h3>
 <img align = "right" alt="coding" width = "400" src = "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Jatin+Chahar%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+this+is+Jatin+Chahar%2C+Welcome+to+my+Github+page." alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin-chahar-008&label=Profile%20views&color=0e75b6&style=flat" alt="jatin-chahar-008" /> </p>
 
@@ -16,11 +16,6 @@
 <a href="https://www.leetcode.com/jatinchahar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jatinchahar" height="30" width="40" /></a>
 </p>
 
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-908%20hrs%2019%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 ```text
 💬 Programming Languages: 
 CPP                      17 hrs 3 mins       ███████████████████████░░   59.26 % 
