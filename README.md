@@ -21,7 +21,7 @@
 
   👦 About Me
 
-- 👨‍💻 I'm a B-Tech 3rd year student 
+- 👨‍💻 I'm a B-Tech Final year student 
 
 - 🔭 I’m currently focusing on **DSA**
 
@@ -35,8 +35,3 @@
 
 ![snake](https://github.com/user-attachments/assets/144ee368-9e2a-4af2-a2b0-88aa3b959c44)
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin-chahar-008&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatin-chahar-008&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
